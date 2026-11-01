@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+.venv/
+
+# Database files
+*.duckdb
+*.duckdb.wal
+
+# Raw and generated datasets
+data/raw/*.parquet
+data/clean/
+data/processed/
+
+# Execution logs
+logs/*.log

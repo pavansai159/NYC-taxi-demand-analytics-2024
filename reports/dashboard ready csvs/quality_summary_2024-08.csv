@@ -1,0 +1,2 @@
+month,total_trips,missing_passengers,zero_passengers,invalid_distance,non_positive_fare,invalid_duration,negative_or_missing_total,speed_above_80,flagged_trips
+2024-08,2979132,258667,26267,57413,59387,1018,52940,1047,376115

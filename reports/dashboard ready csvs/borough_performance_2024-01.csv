@@ -1,0 +1,9 @@
+month,pickup_borough,total_trips,active_pickup_location_ids
+2024-01,Manhattan,2646933,67
+2024-01,Queens,273125,69
+2024-01,Brooklyn,25258,61
+2024-01,Unknown,10360,1
+2024-01,Bronx,6905,43
+2024-01,N/A,1658,1
+2024-01,EWR,295,1
+2024-01,Staten Island,72,17

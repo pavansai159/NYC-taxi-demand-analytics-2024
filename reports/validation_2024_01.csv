@@ -1,0 +1,7 @@
+month,check,actual,expected,status
+2024-01,Monthly filtering,2964606,2964606,PASS
+2024-01,Geographic enrichment count,2964606,2964606,PASS
+2024-01,Demand view count,2964606,2964606,PASS
+2024-01,Revenue view count,2964606,2964606,PASS
+2024-01,Recorded total reconciliation,79455941.5,79455941.5,PASS
+2024-01,Eligible demand trips,2904123,2904123,PASS
